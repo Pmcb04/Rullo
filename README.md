@@ -15,7 +15,6 @@ El objetivo de este proyecto es diseñar, implementar en C++ y documentar una ve
 
 
 ## Entrega y prueba de evaluación
-----
 
 La entrega final del proyecto de programación se realizará mediante la actividad correspondiente del aula virtual.
 
@@ -32,7 +31,6 @@ individualmente.
 Es necesario comprobar que se ha enviado la información correctamente y que está accesible en el aula virtual.
 
 ## Material que se debe entregar
----
 
 Al entregar el proyecto se debe presentar un único fichero comprimido (tar.gz) con el nombre de las personas que han
 hecho el programa, **nombre1_nombre2.tar.gz**, que contenga los siguientes archivos:
@@ -48,7 +46,6 @@ alfabético) y nombre2 al del segundo. Por ejemplo, si el proyecto lo realizaran
 fichero debería llamarse MariscalAraujoMAngeles_VicenteChicoteCristina.tar.gz
 
 ## Clasificación del proyecto 
----
 
 Un requisito previo a la evaluación del proyecto es la superación de la **prueba de evaluación.**
 
@@ -70,7 +67,6 @@ En cualquier otro caso, se restará 1 punto a la calificación obtenida en el bl
 superen la prueba de evaluación
 
 ## Descripción del juego Rullo
----
 
 Rullo es un juego matemático para un solo jugador. (Se pueden encontrar muchas versiones para jugar en un navegador
 o en el móvil.)
@@ -91,7 +87,6 @@ El juego termina cuando todos los objetivos se han alcanzado.
 
 
 ## Nuestra versión de Rullo
-------------------------------------------
  
  ### _Versión básica_
 
